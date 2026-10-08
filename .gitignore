@@ -1,0 +1,6 @@
+.godot/
+.import/
+*.translation
+
+git config user.name "Mikołaj Plucinski"
+git config user.email "mikolajplucinski@gmail.com"
