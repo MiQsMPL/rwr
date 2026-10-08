@@ -3,8 +3,10 @@
 [ext_resource type="Script" uid="uid://u3c24oh7x2f7" path="res://rwrNode3D.gd" id="1_os5oe"]
 
 [sub_resource type="BoxMesh" id="BoxMesh_edqvp"]
+size = Vector3(0.1, 0.1, 0.1)
 
 [sub_resource type="BoxMesh" id="BoxMesh_4p2t6"]
+size = Vector3(0.1, 0.1, 0.1)
 
 [node name="Node3D" type="Node3D" unique_id=921831802]
 script = ExtResource("1_os5oe")
